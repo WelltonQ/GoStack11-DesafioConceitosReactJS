@@ -39,4 +39,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
+<p align="center">
+<img alt="DesafioConceitosReactJS" src="https://user-images.githubusercontent.com/12499627/81343414-563e5180-908b-11ea-9003-82f90db354ff.PNG" />
+</p>
+
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/)
